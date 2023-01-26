@@ -1,0 +1,19 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "unit-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurydev/login-app.git"
+  },
+  "author": "Iury Rodrigues Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iurydev/login-app/issues"
+  },
+  "homepage": "https://github.com/iurydev/login-app#readme"
+}
